@@ -3,7 +3,7 @@ A Rusty reimplementation of series of DNA mutation kinetics simulations first ca
 
 >This is a project to practice using Rust, and in it's current state does not reproduce the full paper results.
 
-This simulation is an abbreviated version of the original simulations, all contained in a single executable parameterised in the `main.rs` script. I have included the original mutation rate data from the [Trek paper]<>, and the DNA base-pair contents from the original work in compressed `parquet` format.
+This simulation is an abbreviated version of the original simulations, all contained in a single executable parameterised in the `main.rs` script. I have included the original mutation rate data from the [Trek paper](https://doi.org/10.1186/s12864-016-3440-5), and the DNA base-pair contents from the original work in compressed `parquet` format.
 
 
 ## Overall Pipeline
